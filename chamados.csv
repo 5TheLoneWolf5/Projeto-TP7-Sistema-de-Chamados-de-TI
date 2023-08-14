@@ -1,0 +1,15 @@
+ID,Usuario,Problema,Prioridade
+1,1,Bug,Baixa
+2,2,Error 404,Alta
+3,3,Bug,Baixa
+4,4,Error 134,Normal
+5,5,Bug,Normal
+6,6,Error 404,Alta
+7,7,Bug,Baixa
+8,8,Error 23,Baixa
+9,9,Bug,Normal
+10,10,Error 43,Alta
+11,3,Error 404,Alta
+12,4,Bug,Baixa
+13,3,Bug,Baixa
+14,7,Error 32,Normal
